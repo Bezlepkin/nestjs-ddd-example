@@ -1,5 +1,5 @@
 
-# NestJs Clean Arquitecture
+# NestJs Clean Architecture
 This is an example of clean architecture implementation in [NestJs](https://github.com/nestjs/nest) 
 
 
