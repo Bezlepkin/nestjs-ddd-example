@@ -27,17 +27,15 @@ git clone https://github.com/Bezlepkin/nestjs-ddd-example.git
 ├── test
 │   ├── app.e2e-spec.ts
 │   └── jest-e2e.json
-├── jest.config.json
-├── localhost.sqlite
 ├── nest-cli.json
-├── nodemon-debug.json
-├── nodemon.json
 ├── package-lock.json
 ├── package.json
 ├── README.md
 ├── tsconfig.build.json
 ├── tsconfig.json
-└── tslint.json
+├── .eslintrc.js
+├── .gitignore
+├── .prettierrc
 ```
 
 ## Author
